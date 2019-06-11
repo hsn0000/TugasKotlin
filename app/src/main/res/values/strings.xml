@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TugasMateriKotlin</string>
+
+    <array name="spinner_item">
+        <item>L</item>
+        <item>P</item>
+    </array>
+</resources>
